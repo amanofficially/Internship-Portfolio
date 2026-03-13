@@ -13,10 +13,6 @@ My name is Aman Patel. I am learning web development and programming.
 - C Programming
 - Git & GitHub
 
-## Projects
-- E-commerce website
-- React components
-- C programming practice
 
 ## Purpose
 The purpose of this repository is to show my skills and the work I did during my internship.
